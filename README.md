@@ -5,7 +5,7 @@ A new fast method for clustering phylogenetic trees using *K*-means and inferrin
 	=> =============================================================================================================================
 	=> Program   : PhyloClust - 2022
 	=> Authors   : Nadia Tahiri and Aleksandr Koshkarov (University of Sherbrooke)
-	=> This program clusters phylogenetic trees using the *k*-means partitioning algorithm.
+	=> This program clusters phylogenetic trees using the _k_-means partitioning algorithm.
 	=> These trees may have the same or different, but mutually overlapping, sets of leaves (the multiple supertree problem).
 	=> Phylogenetic trees must be given in the Newick format (program input).
 	=> A partitioning of the input trees in *K* clusters of trees is returned as output. 
